@@ -3,7 +3,7 @@ title: My Page Title
 date: 2024-03-19 09:52:00 +/-0000
 categories: [category_a, category_b]
 tags: my_tag     # TAG names should always be lowercase
-layout: post
+layout: page
 ---
 # A top level heading 1 here
 Former Republic of Ireland international Keith Treacy is excited to see how some of the Boys in Green's in-form players fare in the upcoming friendlies against Belgium and Switzerland but has concerns about the strength of the Irish engine room.
