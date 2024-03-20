@@ -16,7 +16,7 @@ timezone: Europe/Dublin
 
 title: Longlines # the main title
 
-tagline: A new novel by Caoilte Breatnach # it will display as the sub-title
+tagline: A novel by Caoilte Breatnach # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A new novel by Caoilte Breatnach
@@ -26,16 +26,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://feilimb.github.io"
 
 github:
-  username: feilimb # change to your github username
+  username: #feilimb # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: #twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Caoilte Breatnach
-  email: example@domain.com # change to your email address
+  email: longlines-irl@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -66,7 +66,7 @@ goatcounter:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
