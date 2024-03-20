@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas car
+icon: fa fa-shield
 order: 3
 ---
 
