@@ -1,8 +1,8 @@
 ---
 # the default layout is 'page'
-icon: fas fa-comments
+icon: fas fa-newspaper
 layout: page
-order: 2
+order: 3
 ---
 
 ## A title here
