@@ -9,5 +9,6 @@ order: 2
 
 The following images are available in high resolution for press use.
 
-| ![Portrait 1](/assets/caoilte-breatnach-01-colour.jpg | width=250) | ![Portrait 2](/assets/caoilte-breatnach-02-colour.jpg | width=250) | ![Portrait 3](/assets/caoilte-breatnach-02-colour.jpg | width=250) |
-| ![Portrait 1 BW](/assets/caoilte-breatnach-01-grayscale.jpg | width=250) | ![Portrait 2 BW](/assets/caoilte-breatnach-02-grayscale.jpg | width=250) | ![Portrait 3 BW](/assets/caoilte-breatnach-02-grayscale.jpg | width=250) |
+[<img src="/assets/caoilte-breatnach-01-colour.jpg" width="200">](https://github.com/feilimb/feilimb.github.io/blob/main/assets/caoilte-breatnach-01-colour.jpg?raw=true)
+
+[<img src="/assets/caoilte-breatnach-01-colour.jpg" width="200">](/assets/caoilte-breatnach-01-colour.jpg?raw=true)
