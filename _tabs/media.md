@@ -21,4 +21,4 @@ The following images are available in high resolutions for press use.
 
 | Front Cover  | Back Cover |
 | ------------- | ------------- |
-| [<img src="/assets/small/longlines-cover-colour-01.jpg" width="300" alt="Longlines - Cover Image">](/assets/longlines-cover-colour-01.jpg?raw=true)  |  |
+| [<img src="/assets/small/longlines-cover-colour-01.jpg" width="300" alt="Longlines - Cover Image" border="1">](/assets/longlines-cover-colour-01.jpg?raw=true)  |  |
