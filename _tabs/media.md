@@ -9,7 +9,7 @@ order: 2
 
 The following images are available in high resolutions for press use.
 
-### Portraits
+### Portrait Imagery
 
 | Colour  | Grayscale |
 | ------------- | ------------- |
@@ -19,6 +19,10 @@ The following images are available in high resolutions for press use.
 
 ### Book Imagery
 
-| Front Cover  | Back Cover |
+| Front Cover  | &nbsp; |
 | ------------- | ------------- |
-| [<img src="/assets/small/longlines-cover-colour-01.jpg" width="300" alt="Longlines - Cover Image" style="border: #333333 2px solid;" />](/assets/longlines-cover-colour-01.jpg?raw=true)  |  |
+| [<img src="/assets/small/longlines-cover-colour-01.jpg" width="300" alt="Longlines - Cover Image" style="border: #333333 0px solid;" />](/assets/longlines-cover-colour-01.jpg?raw=true)  | &nbsp; |
+
+| Full Cover  | &nbsp; |
+| ------------- | ------------- |
+| [<img src="/assets/small/longlines-cover-front-and-back" width="300" alt="Longlines - Cover Image Full" style="border: #333333 0px solid;" />](/assets/longlines-cover-front-and-back?raw=true)  | &nbsp; |
