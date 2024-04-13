@@ -19,10 +19,10 @@ The following images are available in high resolutions for press use.
 
 ### Book Imagery
 
-| Front Cover  | &nbsp; |
-| ------------- | ------------- |
-| [<img src="/assets/small/longlines-cover-colour-01.jpg" width="300" alt="Longlines - Cover Image" style="border: #333333 0px solid;" />](/assets/longlines-cover-colour-01.jpg?raw=true)  | &nbsp; |
+| Front Cover  |
+| ------------- |
+| [<img src="/assets/small/longlines-cover-colour-01.jpg" width="300" alt="Longlines - Cover Image" style="border: #333333 0px solid;" />](/assets/longlines-cover-colour-01.jpg?raw=true)  |
 
-| Full Cover  | &nbsp; |
-| ------------- | ------------- |
-| [<img src="/assets/small/longlines-cover-front-and-back.jpg" width="300" alt="Longlines - Cover Image Full" style="border: #333333 0px solid;" />](/assets/longlines-cover-front-and-back.jpg?raw=true)  | &nbsp; |
+| Full Cover  |
+| ------------- |
+| [<img src="/assets/small/longlines-cover-front-and-back.jpg" width="300" alt="Longlines - Cover Image Full" style="border: #333333 0px solid;" />](/assets/longlines-cover-front-and-back.jpg?raw=true)  |
