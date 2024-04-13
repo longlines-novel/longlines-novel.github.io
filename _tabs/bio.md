@@ -47,7 +47,7 @@ Endeavours to date include:
 - 2007 (Essay) Essays in Honour of Tom Munnelly (1944-2007) - The Old Kilfarboy Society, Co Clare (Tom was a full-time folklorist and foremost collector of traditional songs).
 - 2009 Bursary award by Galway County Council: 14-day residency in Tyrone Guthrie Centre, County Monaghan, Ireland (work in progress on this debut novel).
 - 2010 Project coordinator: Transfer of the Cresswell archive (incl. 500 approx. negatives (mostly b&w) images and notes etc. which the late Prof. Robert Cresswell, Paris, kindly donated to the Irish State in April 2010. Cresswell's anthropological work in Kinvara in 1956-57 was published by the Institut d'Ethnologie (Paris) as Une communauté rurale De l'Irlande in 1969. A selection of his photos also featured in the National Museum, Collins Barracks, in 2020.<br>
-See: <a href="http://kinvara.ie/old-kinvara/" target="_top">Gallery Here</a>.
+See: <a href="https://kinvara.ie/old-kinvara/" target="_top">Gallery Here</a>.
 - 2011 & 2012 Calendars of images from the Cresswell archive.
 - 2012 (Book) A Caring World - Cion is Cúram (commissioned history of the Galway Association / Ability West). Free download available: A Caring World.
 - 2019 RTE's Living Word -- 5 reflections on disability (270-word piece here)
