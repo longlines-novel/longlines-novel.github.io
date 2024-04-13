@@ -27,7 +27,7 @@ Many thanks as well to Fintan Coughlan for the blurb on the back cover, to Hazel
 Go mba fada buan sibh uilig!
 
 ### Dedication
-For Camíla, Evie, Méabh and Cathal
+_For Camíla, Evie, Méabh and Cathal_
 
 
 ## Publications
