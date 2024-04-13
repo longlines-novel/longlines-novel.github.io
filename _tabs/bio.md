@@ -49,6 +49,6 @@ Endeavours to date include:
 See: <a href="https://kinvara.ie/old-kinvara/" target="_blank">Gallery Here</a>.
 - 2011 & 2012 Calendars of images from the Cresswell archive.
 - 2012 (Book) A Caring World - Cion is Cúram (commissioned history of the Galway Association / Ability West). Free download available: <a href="https://acaringworld.wordpress.com/" target="_blank">A Caring World</a>.
-- 2019 RTE's Living Word -- 5 reflections on disability (<a href="/assets/docs/RTE_Living_Word_2019-sample_02.pdf">270-word piece here</a>)
+- 2019 RTE's Living Word -- 5 reflections on disability (<a href="/assets/docs/RTE_Living_Word_2019-sample_02.pdf" target="_blank">270-word piece here</a>)
 <br>Completing debut novel.
 - 2024 (debut novel) Longlines published by Greenisland Press, Belfast.
