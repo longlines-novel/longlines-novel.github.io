@@ -25,4 +25,4 @@ The following images are available in high resolutions for press use.
 
 | Full Cover  | &nbsp; |
 | ------------- | ------------- |
-| [<img src="/assets/small/longlines-cover-front-and-back" width="300" alt="Longlines - Cover Image Full" style="border: #333333 0px solid;" />](/assets/longlines-cover-front-and-back?raw=true)  | &nbsp; |
+| [<img src="/assets/small/longlines-cover-front-and-back.jpg" width="300" alt="Longlines - Cover Image Full" style="border: #333333 0px solid;" />](/assets/longlines-cover-front-and-back.jpg?raw=true)  | &nbsp; |
