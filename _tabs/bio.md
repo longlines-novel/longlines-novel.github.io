@@ -7,13 +7,14 @@ order: 3
 
 ## About the author
 
+<div id='author_content'>
 <img src="/assets/small/caoilte-breatnach-02-colour.jpg" width="400" alt="Author Caoilte Breatnach 01" style='float: right; margin: 0 0 0 15px; border: #333333 2px solid;'>
-Caoilte Breatnach grew up in a trilingual environment. His parents and siblings were involved in diverse republican and socialist issues and in defending human rights. He has worked as a professional translator and contributed to heritage and cultural publications, and TV/Radio broadcasts. 
+<p>Caoilte Breatnach grew up in a trilingual environment. His parents and siblings were involved in diverse republican and socialist issues and in defending human rights. He has worked as a professional translator and contributed to heritage and cultural publications, and TV/Radio broadcasts. 
 
 Over the years, he authored a number of (now out of print) books including A Word In Your Ear, based on Kinvara folklore (Kinvara Community Council, 1989); _Come Here I Want You_, and _The Life and Times of Pat Keane_ (KCC,1996); _Kinvara, A Seaport Town on Galway Bay_ (Intro and extended captions to old photographs (Tír Eolas, 1997); _Memories in Time - Folklore of Beithe 1800-2000_ (BRDC 2003); _Evelyn McCooke - Songs and Stories_ (Folklore and songs from one of the last native Irish speakers in Kinvara, 2004); and _A Caring World - Cion is Cúram_ (commissioned history of the Galway Association / Ability West, 2012). 
 
-This is his first novel.
-
+This is his first novel.</p>
+</div>
 
 ## Acknowledgements
 
@@ -46,7 +47,7 @@ Endeavours to date include:
 - 2007 (Essay) Essays in Honour of Tom Munnelly (1944-2007) - The Old Kilfarboy Society, Co Clare (Tom was a full-time folklorist and foremost collector of traditional songs).
 - 2009 Bursary award by Galway County Council: 14-day residency in Tyrone Guthrie Centre, County Monaghan, Ireland (work in progress on this debut novel).
 - 2010 Project coordinator: Transfer of the Cresswell archive (incl. 500 approx. negatives (mostly b&w) images and notes etc. which the late Prof. Robert Cresswell, Paris, kindly donated to the Irish State in April 2010. Cresswell's anthropological work in Kinvara in 1956-57 was published by the Institut d'Ethnologie (Paris) as Une communauté rurale De l'Irlande in 1969. A selection of his photos also featured in the National Museum, Collins Barracks, in 2020.<br>
-See: Gallery Here.
+See: <a href="http://kinvara.ie/old-kinvara/" target="_top">Gallery Here</a>.
 - 2011 & 2012 Calendars of images from the Cresswell archive.
 - 2012 (Book) A Caring World - Cion is Cúram (commissioned history of the Galway Association / Ability West). Free download available: A Caring World.
 - 2019 RTE's Living Word -- 5 reflections on disability (270-word piece here)
