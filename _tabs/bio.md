@@ -36,8 +36,8 @@ Endeavours to date include:
 - 1989 (Book) A Word In Your Ear, based on Kinvara folklore (out of print) 
 - 1996 (Book) Come Here I Want You, The Life and Times of Pat Keane, (traditional singer and popular old-timer; Doorus, Kinvara) (out of print)  
 - 1997 (Book) Kinvara, A Seaport Town on Galway Bay (Introduction and extended captions to book of old photographs. Out of print);
-- 1997 5 two-minute reflections (253-word piece here). 
-- 1997 Essay in Force 10 Issue 9, 1997. (see sample here). 
+<br>5 two-minute reflections (253-word piece here). 
+<br>Essay in Force 10 Issue 9, 1997. (see sample here). 
 - 1998 (Book) Many's the Pleasant Day I spent (Consultant editor) Folklore from the Portumna area, South Galway; 
 - 2000-2002 Project coordinator: 1. Research; Script commissioning; Fundraising etc. Stage-play on the life and times of Francis Fahy, famous poet, songwriter and nationalist born in Kinvara (Co. Galway). The Original Night of Francis Fahy had a successful run in Town Hall Theatre, Galway. 2. Compilation CD of poet's songs (‘The Ould Plaid Shawl’; various artistes).
 - 2003, 2006, 2008: Editor, Trácht Magazine; published by Kinvara Community Council;
