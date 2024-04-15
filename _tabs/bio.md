@@ -49,5 +49,5 @@ Collette and Ray Blackmore provided lodgings on Inis Meáin, where I worked on f
 
 I am indebted to John Hearne for directing me in the revision process. Many thanks also to Tony Diviney, who stood by me as I delved into the richness of local folklore. My sister, Lucilita (who participated in the peace negotiations) and Eoghan Mac Cormaic (ex-Long Kesh prisoner) advised on the Irish republican ethos and the peace process proper, as did my publisher in Greenisland Press, Danny Morrison, who also guided and supported the final editing process along with sound recommendations.
 
-Many thanks as well to Fintan Coughlan for the blurb on the back cover, to Hazel Walker, who designed the front cover image, and to David Ruffles for his wonderful photographic contribution. Finally, go raibh míle maith agat to graphic designer Seán Mistéil, for his meticulous attention to detail in the remaining design and layout process. 
+Many thanks as well to Fintan Coughlan for the summary on the back cover, to Hazel Walker, who designed the front cover image, and to David Ruffles for his wonderful photographic contribution. Finally, go raibh míle maith agat to graphic designer Seán Mistéil, for his meticulous attention to detail in the remaining design and layout process. 
 Go mba fada buan sibh uilig!

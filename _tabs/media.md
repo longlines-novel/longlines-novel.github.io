@@ -7,7 +7,7 @@ order: 2
 
 ## Media / Press Photos
 
-The following photos are available in high resolutions for media usage. All photos by _David Ruffles_ with thanks.
+The following photos are available in high resolutions for media usage. All photos by David Ruffles with many thanks.
 
 ### Portrait Imagery
 
