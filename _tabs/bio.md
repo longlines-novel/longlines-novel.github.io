@@ -15,20 +15,8 @@ Over the years, he authored a number of (now out of print) books including A Wor
 
 This is his first novel.
 
-## Acknowledgements
-
-Many thanks to Comhairle Contae na Gaillimhe (Galway County Council) which provided me with a bursary for the two-week residency at the Tyrone Guthrie Centre in 2009. This helped me kickstart the writing of this book. Two Claire Keegan workshops after that managed to put some manners on my writing, as did Kathleen Murray, who provided valuable feedback on early drafts. Many thanks also to Max Hafler and Tony Hegarty for their comments at that stage.
-
-Collette and Ray Blackmore provided lodgings on Inis Meáin, where I worked on further drafts and walked our dog, Mala. Míle buíochas, cách! Later, for their helpful comments, I am indebted to Áine Phillips, Eileen Keane, Fionna Murray, Hazel Walker, Fintan Coughlan, and Margaret Bradley. Much appreciated also was the encouragement and valuable feedback I received on several extracts from members of the Kinvara Writers’ Group. I am of course grateful to my children, Elske and Féilim and to my lovely lifelong partner, Petra. She, too, helped me to see things more clearly.
-
-I am indebted to John Hearne for directing me in the revision process. Many thanks also to Tony Diviney, who stood by me as I delved into the richness of local folklore. My sister, Lucilita (who participated in the peace negotiations) and Eoghan Mac Cormaic (ex-Long Kesh prisoner) advised on the Irish republican ethos and the peace process proper, as did my publisher in Greenisland Press, Danny Morrison, who also guided and supported the final editing process along with sound recommendations.
-
-Many thanks as well to Fintan Coughlan for the blurb on the back cover, to Hazel Walker, who designed the front cover image, and to David Ruffles for his wonderful photographic contribution. Finally, go raibh míle maith agat to graphic designer Seán Mistéil, for his meticulous attention to detail in the remaining design and layout process. 
-Go mba fada buan sibh uilig!
-
 ### Dedication
 _For Camíla, Evie, Méabh and Cathal_
-
 
 ## Publications
 
@@ -52,3 +40,14 @@ See: <a href="https://kinvara.ie/old-kinvara/" target="_blank">Gallery Here</a>.
 - 2019 RTE's Living Word -- 5 reflections on disability (<a href="/assets/docs/RTE_Living_Word_2019-sample_02.pdf" target="_blank">270-word piece here</a>)
 <br>Completing debut novel.
 - 2024 (debut novel) Longlines published by Greenisland Press, Belfast.
+
+## Acknowledgements
+
+Many thanks to Comhairle Contae na Gaillimhe (Galway County Council) which provided me with a bursary for the two-week residency at the Tyrone Guthrie Centre in 2009. This helped me kickstart the writing of this book. Two Claire Keegan workshops after that managed to put some manners on my writing, as did Kathleen Murray, who provided valuable feedback on early drafts. Many thanks also to Max Hafler and Tony Hegarty for their comments at that stage.
+
+Collette and Ray Blackmore provided lodgings on Inis Meáin, where I worked on further drafts and walked our dog, Mala. Míle buíochas, cách! Later, for their helpful comments, I am indebted to Áine Phillips, Eileen Keane, Fionna Murray, Hazel Walker, Fintan Coughlan, and Margaret Bradley. Much appreciated also was the encouragement and valuable feedback I received on several extracts from members of the Kinvara Writers’ Group. I am of course grateful to my children, Elske and Féilim and to my lovely lifelong partner, Petra. She, too, helped me to see things more clearly.
+
+I am indebted to John Hearne for directing me in the revision process. Many thanks also to Tony Diviney, who stood by me as I delved into the richness of local folklore. My sister, Lucilita (who participated in the peace negotiations) and Eoghan Mac Cormaic (ex-Long Kesh prisoner) advised on the Irish republican ethos and the peace process proper, as did my publisher in Greenisland Press, Danny Morrison, who also guided and supported the final editing process along with sound recommendations.
+
+Many thanks as well to Fintan Coughlan for the blurb on the back cover, to Hazel Walker, who designed the front cover image, and to David Ruffles for his wonderful photographic contribution. Finally, go raibh míle maith agat to graphic designer Seán Mistéil, for his meticulous attention to detail in the remaining design and layout process. 
+Go mba fada buan sibh uilig!
