@@ -11,7 +11,7 @@ order: 3
 
 Caoilte Breatnach grew up in a trilingual environment. His parents and siblings were involved in diverse republican and socialist issues and in defending human rights. He has worked as a professional translator and contributed to heritage and cultural publications, and TV/Radio broadcasts. 
 
-Over the years, he authored a number of (now out of print) books including A Word In Your Ear, based on Kinvara folklore (Kinvara Community Council, 1989); _Come Here I Want You_, and _The Life and Times of Pat Keane_ (KCC,1996); _Kinvara, A Seaport Town on Galway Bay_ (Intro and extended captions to old photographs (Tír Eolas, 1997); _Memories in Time - Folklore of Beithe 1800-2000_ (BRDC 2003); _Evelyn McCooke - Songs and Stories_ (Folklore and songs from one of the last native Irish speakers in Kinvara, 2004); and _A Caring World - Cion is Cúram_ (commissioned history of the Galway Association / Ability West, 2012). 
+Over the years, he authored a number of (now out of print) books including _A Word In Your Ear_, based on Kinvara folklore (Kinvara Community Council, 1989); _Come Here I Want You_, and _The Life and Times of Pat Keane_ (KCC,1996); _Kinvara, A Seaport Town on Galway Bay_ (Intro and extended captions to old photographs (Tír Eolas, 1997); _Memories in Time - Folklore of Beithe 1800-2000_ (BRDC 2003); _Evelyn McCooke - Songs and Stories_ (Folklore and songs from one of the last native Irish speakers in Kinvara, 2004); and _A Caring World - Cion is Cúram_ (commissioned history of the Galway Association / Ability West, 2012). 
 
 This is his first novel.
 
@@ -38,7 +38,7 @@ See: <a href="https://kinvara.ie/old-kinvara/" target="_blank">Gallery Here</a>.
 - 2011 & 2012 Calendars of images from the Cresswell archive.
 - 2012 (Book) A Caring World - Cion is Cúram (commissioned history of the Galway Association / Ability West). Free download available: <a href="https://acaringworld.wordpress.com/" target="_blank">A Caring World</a>.
 - 2019 RTE's Living Word -- 5 reflections on disability (<a href="/assets/docs/RTE_Living_Word_2019-sample_02.pdf" target="_blank">270-word piece here</a>)
-<br>Completing debut novel.
+<br>Work in progress on debut novel.
 - 2024 (debut novel) Longlines published by Greenisland Press, Belfast.
 
 ## Acknowledgements
