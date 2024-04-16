@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+title: Synopsis
 icon: fas fa-pen-nib
 layout: page
 order: 4
