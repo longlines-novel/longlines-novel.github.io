@@ -7,7 +7,8 @@ order: 2
 
 ## Media / Press Photos
 
-The following photos are available in high resolutions for media usage. All photos by David Ruffles with many thanks.
+All photos by David Ruffles, with many thanks.<br>
+Please contact David Ruffles for usage. See <a href="www.davidruffles.ie" target="_blank">www.davidruffles.ie</a> for contact details.
 
 ### Portrait Imagery
 

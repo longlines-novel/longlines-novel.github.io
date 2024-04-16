@@ -15,16 +15,13 @@ Over the years, he authored a number of (now out of print) books including _A Wo
 
 This is his first novel.
 
-### Dedication
-_For Camíla, Evie, Méabh and Cathal_
-
-## Publications
+## Publications, Other Works
 
 Endeavours to date include:
 - 1989 (Book) A Word In Your Ear, based on Kinvara folklore (out of print) 
 - 1996 (Book) Come Here I Want You, The Life and Times of Pat Keane, (traditional singer and popular old-timer; Doorus, Kinvara) (out of print)  
 - 1997 (Book) Kinvara, A Seaport Town on Galway Bay (Introduction and extended captions to book of old photographs. Out of print);
-<br>5 two-minute reflections (<a href="/assets/docs/RTE_Living_Word_1997-sample_01.pdf" target="_blank">253-word piece here</a>).
+<br>RT&Eacute;’s Living Word – 5 two-minute reflections (<a href="/assets/docs/RTE_Living_Word_1997-sample_01.pdf" target="_blank">253-word piece here</a>).
 <br>Essay in Force 10 Issue 9, 1997. (<a href="/assets/docs/Force_10_extract.pdf" target="_blank">see sample here</a>). 
 - 1998 (Book) Many's the Pleasant Day I spent (Consultant editor) Folklore from the Portumna area, South Galway; 
 - 2000-2002 Project coordinator: 1. Research; Script commissioning; Fundraising etc. Stage-play on the life and times of Francis Fahy, famous poet, songwriter and nationalist born in Kinvara (Co. Galway). The Original Night of Francis Fahy had a successful run in Town Hall Theatre, Galway. 2. Compilation CD of poet's songs (‘The Ould Plaid Shawl’; various artistes).
@@ -37,17 +34,6 @@ Endeavours to date include:
 See: <a href="https://kinvara.ie/old-kinvara/" target="_blank">Gallery Here</a>.
 - 2011 & 2012 Calendars of images from the Cresswell archive.
 - 2012 (Book) A Caring World - Cion is Cúram (commissioned history of the Galway Association / Ability West). Free download available: <a href="https://acaringworld.wordpress.com/" target="_blank">A Caring World</a>.
-- 2019 RTE's Living Word -- 5 reflections on disability (<a href="/assets/docs/RTE_Living_Word_2019-sample_02.pdf" target="_blank">270-word piece here</a>)
+- 2019 RT&Eacute;'s Living Word - 5 reflections on disability (<a href="/assets/docs/RTE_Living_Word_2019-sample_02.pdf" target="_blank">270-word piece here</a>)
 <br>Work in progress on debut novel.
 - 2024 (debut novel) Longlines published by Greenisland Press, Belfast.
-
-## Acknowledgements
-
-Many thanks to Comhairle Contae na Gaillimhe (Galway County Council) which provided me with a bursary for the two-week residency at the Tyrone Guthrie Centre in 2009. This helped me kickstart the writing of this book. Two Claire Keegan workshops after that managed to put some manners on my writing, as did Kathleen Murray, who provided valuable feedback on early drafts. Many thanks also to Max Hafler and Tony Hegarty for their comments at that stage.
-
-Collette and Ray Blackmore provided lodgings on Inis Meáin, where I worked on further drafts and walked our dog, Mala. Míle buíochas, cách! Later, for their helpful comments, I am indebted to Áine Phillips, Eileen Keane, Fionna Murray, Hazel Walker, Fintan Coughlan, and Margaret Bradley. Much appreciated also was the encouragement and valuable feedback I received on several extracts from members of the Kinvara Writers’ Group. I am of course grateful to my children, Elske and Féilim and to my lovely lifelong partner, Petra. She, too, helped me to see things more clearly.
-
-I am indebted to John Hearne for directing me in the revision process. Many thanks also to Tony Diviney, who stood by me as I delved into the richness of local folklore. My sister, Lucilita (who participated in the peace negotiations) and Eoghan Mac Cormaic (ex-Long Kesh prisoner) advised on the Irish republican ethos and the peace process proper, as did my publisher in Greenisland Press, Danny Morrison, who also guided and supported the final editing process along with sound recommendations.
-
-Many thanks as well to Fintan Coughlan for the summary on the back cover, to Hazel Walker, who designed the front cover image, and to David Ruffles for his wonderful photographic contribution. Finally, go raibh míle maith agat to graphic designer Seán Mistéil, for his meticulous attention to detail in the remaining design and layout process. 
-Go mba fada buan sibh uilig!
