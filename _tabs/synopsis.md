@@ -1,10 +1,12 @@
 ---
-title: Synopsis
-date: 2024-04-16 19:30:00 +/-0000
-categories: []
-tags:      # TAG names should always be lowercase
+# the default layout is 'page'
+icon: fas fa-pen-nib
 layout: page
+order: 4
 ---
+
+## Synopsis
+
 JJ Hynes is 42, a veteran of the Troubles in Derry and Belfast has sacrificed his life, marriage, family to the Cause. Now he’s on the run.  Traumatised, bewildered, JJ finds refuge in the Netherlands with a survivor of the Dutch Resistance who is still haunted, like himself, by memories of the past. 
 
 Fate intervenes and JJ is called back to Ireland, tasked with persuading comrades in the West to back the ‘road to peace’, a process he wants to believe in.
