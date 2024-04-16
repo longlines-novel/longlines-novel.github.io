@@ -8,7 +8,7 @@ order: 2
 ## Media / Press Photos
 
 All photos by David Ruffles, with many thanks.<br>
-Please contact David Ruffles for usage. See <a href="www.davidruffles.ie" target="_blank">www.davidruffles.ie</a> for contact details.
+Please contact David Ruffles for usage. See <a href="https://davidruffles.viewbook.com/" target="_blank">www.davidruffles.ie</a> for contact details.
 
 ### Portrait Imagery
 
