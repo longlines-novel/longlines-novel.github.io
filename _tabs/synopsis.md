@@ -6,12 +6,12 @@ layout: page
 order: 4
 ---
 
-- <img src="/assets/flags/gb-eng.svg" width="20" alt="English">[English](#english)
-- [Spanish](#spanish)
-- [French](#french)
-- [Basque](#basque)
-- [Dutch](#dutch)
-- [German](#german)
+- <img src="/assets/flags/gb-eng.svg" width="20" alt="English" style='border: #333333 1px solid;'> [English](#english)
+- <img src="/assets/flags/es.svg" width="20" alt="Spanish" style='border: #333333 1px solid;'> [Spanish](#spanish)
+- <img src="/assets/flags/fr.svg" width="20" alt="French" style='border: #333333 1px solid;'> [French](#french)
+- <img src="/assets/flags/es-pv.svg" width="20" alt="Basque" style='border: #333333 1px solid;'> [Basque](#basque)
+- <img src="/assets/flags/nl.svg" width="20" alt="Dutch" style='border: #333333 1px solid;'> [Dutch](#dutch)
+- <img src="/assets/flags/de.svg" width="20" alt="German" style='border: #333333 1px solid;'> [German](#german)
 
 ### English
 
