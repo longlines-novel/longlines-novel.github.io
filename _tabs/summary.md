@@ -7,11 +7,11 @@ order: 4
 ---
 
 - <img src="/assets/flags/gb-eng.svg" width="20" alt="English" style='border: #333333 1px solid;'> [English](#english)
-- <img src="/assets/flags/es.svg" width="20" alt="Spanish" style='border: #333333 1px solid;'> [Spanish](#spanish)
-- <img src="/assets/flags/fr.svg" width="20" alt="French" style='border: #333333 1px solid;'> [French](#french)
-- <img src="/assets/flags/es-pv.svg" width="20" alt="Basque" style='border: #333333 1px solid;'> [Basque](#basque)
-- <img src="/assets/flags/nl.svg" width="20" alt="Dutch" style='border: #333333 1px solid;'> [Dutch](#dutch)
-- <img src="/assets/flags/de.svg" width="20" alt="German" style='border: #333333 1px solid;'> [German](#german)
+- <img src="/assets/flags/es.svg" width="20" alt="Espanol" style='border: #333333 1px solid;'> [Espanol](#espanol)
+- <img src="/assets/flags/fr.svg" width="20" alt="Francais" style='border: #333333 1px solid;'> [Français](#Francais)
+- <img src="/assets/flags/es-pv.svg" width="20" alt="Euskara" style='border: #333333 1px solid;'> [Euskara](#euskara)
+- <img src="/assets/flags/nl.svg" width="20" alt="Nederlands" style='border: #333333 1px solid;'> [Nederlands](#nederlands)
+- <img src="/assets/flags/de.svg" width="20" alt="Deutsch" style='border: #333333 1px solid;'> [Deutsch](#deutsch)
 
 ### English
 
@@ -28,7 +28,7 @@ History, politics, and possible redemption come together here in a narrative tha
 
 <hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
-### Spanish
+### Espanol
 
 JJ Hynes, un veterano del confli	cto irlandés en Derry y Belfast, ha sacrificado su vida, su matrimonio y su familia por la lucha. Ahora está huyendo.
 
@@ -45,7 +45,7 @@ La historia, la política y la posible reconciliación se unen aquí en una narr
 
 <hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
-### French
+### Francais
 
 JJ Hynes, un vétéran des “troubles” à Derry et Belfast, a sacrifié sa vie, son mariage, sa famille au profit de la "cause". Il est désormais en cavale.
 
@@ -61,7 +61,7 @@ _Longlines_ : La palangre est une technique de pêche, mais elle évoque égalem
 
 <hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
-### Basque
+### Euskara
 
 JJ Hynes Derry eta belfasteko gatazketan luze ibili da. Bidean bere bizitza eta familiako harremanak borrokarengatik sakrifikatu ditu, eta orain ihesean dabil.
 
@@ -75,7 +75,7 @@ Istoria, politika eta barkamena thriller baten gisan batzen dira, norbera eta ta
 
 <hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
-### Dutch
+### Nederlands
 
 JJ Hynes is een veteraan van The Troubles (het conflict) in Derry en Belfast. Hij heeft zijn leven, huwelijk en gezin opgeofferd aan The Cause. Nu is hij op de vlucht.
 
@@ -92,7 +92,7 @@ _Longlines_ : (langelijnvisseri, een visserijtechniek) is ook een metafoor voor 
 
 <hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
-### German
+### Deutsch
 
 JJ Hynes, ein Veteran der Unruhen in Derry und Belfast, hat sein Leben, seine Ehe und seine Familie für die Sache geopfert. Jetzt ist er auf der Flucht.
 
