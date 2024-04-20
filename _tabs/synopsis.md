@@ -1,19 +1,17 @@
 ---
 # the default layout is 'page'
-title: Summary (multi-lingual)
+title: Summary
 icon: fas fa-pen-nib
 layout: page
 order: 4
 ---
 
-## Longlines - A Novel (multi-lingual summaries)
-
-- English
-- Spanish
-- French
-- Basque
-- Dutch
-- German
+- [English](#english)
+- [Spanish](#spanish)
+- [French](#french)
+- [Basque](#basque)
+- [Dutch](#dutch)
+- [German](#german)
 
 ### English
 
