@@ -11,11 +11,11 @@ order: 3
 
 Caoilte Breatnach grew up in a trilingual environment. His parents and siblings were involved in diverse republican and socialist issues and in defending human rights. He has worked as a professional translator and contributed to heritage and cultural publications, and TV/Radio broadcasts. 
 
-Over the years, he authored a number of (now out of print) books including _A Word In Your Ear_, based on Kinvara folklore (Kinvara Community Council, 1989); _Come Here I Want You_, and _The Life and Times of Pat Keane_ (KCC,1996); _Kinvara, A Seaport Town on Galway Bay_ (Intro and extended captions to old photographs (Tír Eolas, 1997); _Memories in Time - Folklore of Beithe 1800-2000_ (BRDC 2003); _Evelyn McCooke - Songs and Stories_ (Folklore and songs from one of the last native Irish speakers in Kinvara, 2004); and _A Caring World - Cion is Cúram_ (commissioned history of the Galway Association / Ability West, 2012). 
+Over the years, he authored a number of (now out of print) books including _A Word In Your Ear_, based on Kinvara folklore (Kinvara Community Council, 1989); _Come Here I Want You_, and _The Life and Times of Pat Keane_ (KCC,1996); _Kinvara, A Seaport Town on Galway Bay_ (Intro and extended captions to old photographs (Tír Eolas, 1997); _Memories in Time - Folklore of Beithe 1800-2000_ (BRDC 2003); _Evelyn McCooke - Songs and Stories_ (Folklore and songs from one of the last native Irish speakers in Kinvara, 2004); and a chronicle on families campaigning on behalf of people with disabilities: _A Caring World - Cion is Cúram_ (commissioned history of the Galway Association / Ability West, 2012). 
 
 This is his first novel.
 
-## Publications, Other Works
+## Publications and other works
 
 Endeavours to date include:
 - 1989 (Book) A Word In Your Ear, based on Kinvara folklore (out of print) 
