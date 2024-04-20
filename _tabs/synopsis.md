@@ -26,6 +26,8 @@ Can there be peace, happiness and even love for somebody like him?
 
 History, politics, and possible redemption come together here in a narrative that reads like a thriller but asks serious and important questions about the interweaving of personal and national trauma.
 
+<hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
+
 ### Spanish
 
 JJ Hynes, un veterano del confli	cto irlandés en Derry y Belfast, ha sacrificado su vida, su matrimonio y su familia por la lucha. Ahora está huyendo.
@@ -41,6 +43,8 @@ En el pueblo de Killoveragh, se encuentra con Ashling, una conocida de su época
 
 La historia, la política y la posible reconciliación se unen aquí en una narración que se lee como un thriller pero que plantea preguntas serias e importantes sobre la relación entre traumas personales y colectivos.
 
+<hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
+
 ### French
 
 JJ Hynes, un vétéran des “troubles” à Derry et Belfast, a sacrifié sa vie, son mariage, sa famille au profit de la "cause". Il est désormais en cavale.
@@ -53,7 +57,9 @@ JJ, hésitant lui-même, sera-t-il en mesure de convaincre les partisans de la l
 
 Ce récit se lit comme un thriller, mêlant histoire, politique et une éventuelle rédemption. Néanmoins, il nous interroge de manière profonde sur les liens intimes entre les traumatismes personnels et nationaux.
 
-* _Longlines_ : La palangre est une technique de pêche, mais elle évoque également des souvenirs et des générations qui s'écoulent.
+_Longlines_ : La palangre est une technique de pêche, mais elle évoque également des souvenirs et des générations qui s'écoulent.
+
+<hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
 ### Basque
 
@@ -66,6 +72,8 @@ Berriki JJek agindua jaso du Irlandara itzultzeko eta bakerako bide berria bere 
 Killoveragh izeneko herrixkan Ashling topatuko du, garai bateko laguna, eta bere ahizpa Nora. Lortuko al du JJek besteak prozesuan sinistea, berak ere zalantzati egonda? Bakea, zoriona eta maitasuna posible ote dira bera bezalako pertsona batentzat?
 
 Istoria, politika eta barkamena thriller baten gisan batzen dira, norbera eta taldearen artean dauden lokarriak eta korapiloak azalduz.
+
+<hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
 ### Dutch
 
@@ -80,6 +88,9 @@ Hij verblijft in het dorp Killoveragh. Daar loopt hij Ashling weer tegen het lij
 Geschiedenis, politiek en mogelijke verwerking komen hier samen in een verhaal dat leest als een thriller, maar dat serieuze en belangrijke vragen stelt over de vervlechting van persoonlijke met nationale trauma's.
 
 _Longlines_ : (langelijnvisseri, een visserijtechniek) is ook een metafoor voor het verleden.
+
+
+<hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
 ### German
 
