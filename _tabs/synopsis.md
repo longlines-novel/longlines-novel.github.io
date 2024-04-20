@@ -6,7 +6,7 @@ layout: page
 order: 4
 ---
 
-- ("/assets/flags/gb-eng.svg" "English" with="20")[English](#english)
+- <img src="/assets/flags/gb-eng.svg" width="20" alt="English">[English](#english)
 - [Spanish](#spanish)
 - [French](#french)
 - [Basque](#basque)
