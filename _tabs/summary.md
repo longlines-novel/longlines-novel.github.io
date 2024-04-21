@@ -14,8 +14,8 @@ order: 4
 - <img src="/assets/flags/de.svg" width="20" alt="Deutsch" style='border: #333333 1px solid;'> [Deutsch](#deutsch)
 
 <div id='lang_list'>
-	<img src="/assets/longlines-cover-photo.jpg" width="250" alt="Longlines Cover" style='float: right; margin: 0 0 0 15px; border: #333333 1px solid;'>
-	<p><ul>
+	<p><img src="/assets/longlines-cover-photo.jpg" width="250" alt="Longlines Cover" style='float: right; margin: 0 0 0 15px; border: #333333 1px solid;'>
+	<ul>
 		<li><img src="/assets/flags/gb-eng.svg" width="20" alt="English" style='border: #333333 1px solid;'><a href="#english">English</a></li>
 		<li><img src="/assets/flags/es.svg" width="20" alt="Espanol" style='border: #333333 1px solid;'><a href="#espanol">Espanol</a></li>
 		<li><img src="/assets/flags/fr.svg" width="20" alt="Francais" style='border: #333333 1px solid;'><a href="#francais">Francais</a></li>
