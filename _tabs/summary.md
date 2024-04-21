@@ -13,19 +13,6 @@ order: 4
 - <img src="/assets/flags/nl.svg" width="20" alt="Nederlands" style='border: #333333 1px solid;'> [Nederlands](#nederlands)
 - <img src="/assets/flags/de.svg" width="20" alt="Deutsch" style='border: #333333 1px solid;'> [Deutsch](#deutsch)
 
-<div id='lang_list'>
-	<p><img src="/assets/longlines-cover-photo.jpg" width="250" alt="Longlines Cover" style='float: right; margin: 0 0 0 15px; border: #333333 1px solid;'>
-	<ul>
-		<li><img src="/assets/flags/gb-eng.svg" width="20" alt="English" style='border: #333333 1px solid;'><a href="#english">English</a></li>
-		<li><img src="/assets/flags/es.svg" width="20" alt="Espanol" style='border: #333333 1px solid;'><a href="#espanol">Espanol</a></li>
-		<li><img src="/assets/flags/fr.svg" width="20" alt="Francais" style='border: #333333 1px solid;'><a href="#francais">Francais</a></li>
-		<li><img src="/assets/flags/es-pv.svg" width="20" alt="Euskara" style='border: #333333 1px solid;'><a href="#euskara">Euskara</a></li>
-		<li><img src="/assets/flags/nl.svg" width="20" alt="Nederlands" style='border: #333333 1px solid;'><a href="#nederlands">Nederlands</a></li>
-		<li><img src="/assets/flags/de.svg" width="20" alt="Deutsch" style='border: #333333 1px solid;'><a href="#deutsch">Deutsch</a></li>
-	</ul>
-	</p>
-</div>
-
 ### English
 
 JJ Hynes is 42, a veteran of the Troubles in Derry and Belfast has sacrificed his life, marriage, family to the Cause. Now he’s on the run.  Traumatised, bewildered, JJ finds refuge in the Netherlands with a survivor of the Dutch Resistance who is still haunted, like himself, by memories of the past. 
