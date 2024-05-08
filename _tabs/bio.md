@@ -7,7 +7,7 @@ order: 3
 
 ## About the author
 
-<img src="/assets/caoilte-bio.jpg" width="650" alt="Author Caoilte Breatnach" style='float: right; margin: 0 0 0 0px; border: #333333 2px solid;'>
+<img src="/assets/caoilte-bio-colour.jpg" width="650" alt="Author Caoilte Breatnach" style='float: right; margin: 0 0 0 0px; border: #333333 2px solid;'>
 
 Caoilte Breatnach grew up in a trilingual environment. His parents and siblings were involved in diverse republican and socialist issues and in defending human rights. He has worked as a professional translator and contributed to heritage and cultural publications, and TV/Radio broadcasts. 
 
