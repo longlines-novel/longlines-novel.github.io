@@ -7,7 +7,7 @@ order: 4
 ---
 
 - <img src="/assets/flags/gb-eng.svg" width="20" alt="English" style='border: #333333 1px solid;'> [English](#english)
-- <img src="/assets/flags/es.svg" width="20" alt="Espanol" style='border: #333333 1px solid;'> [Espanol](#espanol)
+- <img src="/assets/flags/es.svg" width="20" alt="Castellano" style='border: #333333 1px solid;'> [Castellano](#espanol)
 - <img src="/assets/flags/fr.svg" width="20" alt="Francais" style='border: #333333 1px solid;'> [Francais](#francais)
 - <img src="/assets/flags/es-pv.svg" width="20" alt="Euskara" style='border: #333333 1px solid;'> [Euskara](#euskara)
 - <img src="/assets/flags/nl.svg" width="20" alt="Nederlands" style='border: #333333 1px solid;'> [Nederlands](#nederlands)
@@ -28,7 +28,7 @@ History, politics, and possible redemption come together here in a narrative tha
 
 <hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
-### Espanol
+### Castellano
 
 JJ Hynes, un veterano del confli	cto irlandés en Derry y Belfast, ha sacrificado su vida, su matrimonio y su familia por la lucha. Ahora está huyendo.
 
