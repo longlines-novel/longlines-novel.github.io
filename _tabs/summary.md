@@ -7,7 +7,7 @@ order: 4
 ---
 
 - <img src="/assets/flags/gb-eng.svg" width="20" alt="English" style='border: #333333 1px solid;'> [English](#english)
-- <img src="/assets/flags/es.svg" width="20" alt="Castellano" style='border: #333333 1px solid;'> [Castellano](#espanol)
+- <img src="/assets/flags/es.svg" width="20" alt="Castellano" style='border: #333333 1px solid;'> [Castellano](#castellano)
 - <img src="/assets/flags/fr.svg" width="20" alt="Francais" style='border: #333333 1px solid;'> [Francais](#francais)
 - <img src="/assets/flags/es-pv.svg" width="20" alt="Euskara" style='border: #333333 1px solid;'> [Euskara](#euskara)
 - <img src="/assets/flags/nl.svg" width="20" alt="Nederlands" style='border: #333333 1px solid;'> [Nederlands](#nederlands)
