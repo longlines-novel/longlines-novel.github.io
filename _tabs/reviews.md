@@ -5,6 +5,12 @@ layout: page
 order: 4
 ---
 
+- [Hugo Hamilton](#hugo-hamilton)
+- [Peter Sheridan](#peter-sheridan)
+- [Lelia Doolan](#lelia-doolan)
+- [Timothy Jones](#timothy-jones)
+- [Anthony Neeson](#anthony-neeson)
+
 ### Hugo Hamilton
 
 **Longlines** is a powerful encounter with recent Irish history. A thrilling novel of escape and redemption. An IRA man on the run from the past returns to Ireland to get involved in the peace process. In beautifully crafted prose, it tells the story of the Northern Troubles and the collective change of heart in which a country moves from its violent past into a place of hope and optimism. A fantastic read and a huge achievement. I loved the character envying the grass growing along with so many other wonderful observations.
@@ -30,6 +36,7 @@ Peter also talked about:
 ### Lelia Doolan
 
 Longline fishing is a good metaphor in a tale that catches and brings ashore many of the arguments, prejudices, beliefs and pitfalls of romantic Ireland where indeed peace comes dropping slow.
+
 _**Lelia Doolan**, Irish TV producer, filmmaker, theatre director, campaigner, lecturer and environmentalist, at the Galway launch of Longlines._
 
 Writing is a bit like embroidery - creating the image and the tale, stretching the threads to embellish and fashion the connections - over time, over continents. Emotions, villainy, benevolence - weaving and darning together the lasting effects of actions and non-actions.
@@ -69,3 +76,28 @@ The author is a self-declared Irish republican and he has done his homework. Tha
 I found &#39;Longlines&#39; engrossing. I also found myself racing through it in my spare time, and now I&#39;m making time to go back over my favourite scenes. Give it some of your own time and you will be well rewarded. This is first class reading with depth, enlightenment and compassion under the fast-moving narrative.
 
 _**Timothy Jones** (Artist, Kinvara), Review on Amazon_
+
+<hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
+
+### Anthony Neeson
+
+BOOK REVIEW: Life catches up with  IRA man on the run
+
+AN off the books IRA kidnapping of a leading Dublin barrister goes horribly wrong with leading operative JJ Hynes ferried away to Holland in its aftermath. One IRA man is dead and another arrested. Hynes tries to work out what went wrong or if there was an informer in their ranks.
+
+And he&#39;s plenty of time to think about it in the Dutch lowlands in a quiet village where he is taken in by Erik, an old veteran of the Dutch Resistance. If JJ thought that time had the power to heal and bind wounds at the end of war, he can think again. Fifty years on from World War II and the scars of that bitter conflict are still visible just below the surface, if only one cared to scratch the dirt.
+
+Longlines by Caoilte Breatnach is a gripping thriller but it is also a thoughtful novel. It takes place during the mid-1990s amid the uncertainty of the embryonic peace process. At various stages the British government, Dublin and loyalism are keen to frustrate and slow any appearances of progress. The IRA ceasefire is in danger of collapse and warnings are being ignored. In Holland JJ receives only flashes of life from back home through newspaper reports as the fall-out from the kidnapping sees him cast adrift, but it gives him time to ponder his own life having spent 25 years in the Movement, from a teenager on the streets in Derry, to years incarcerated in Long Kesh, to the inevitable broken marriage.
+
+Longlines is a story of a man trying to rebuild his life after the war is over. But how can he do that when so much of his past is no longer there.
+
+Intertwined into this story is Ashling, a student who JJ shared digs with from his time in Dublin before he had to drop all for Holland. Like JJ she is also on the move, returning home to County Clare where she reluctantly resettles, stirring up old ghosts in the process. It&#39;s a far cry from the city life she yearned and has now left behind. Here the narrative changes and we&#39;re brought back to a world where the countryside is heavy with history and folklore, the beaches are windswept but village life claustrophobic. And it is to Clare-Galway that JJ is tasked to return to help sell the peace process to sceptical local republicans; a process which he himself is not entirely sure about. Here he renews his friendship with Aishling and her older sister Nora.
+
+Caoilte Breatnach&#39;s clever use of language – and the relationship and juxtaposition between it and landscape – gives the reader an immediate sense of someone who is familiar with the people and locations in the book, both in the Netherlands and County Clare. His family have been involved in various shades of republican and socialist causes over the years and his research and his own experience has given him a deep insight of the period in question – his sister Lucilita represented Sinn Féin in negotiations leading up to the Good Friday Agreement.
+
+Many of us will be heading off on holiday over the coming weeks with a new clutch of paperbacks stuffed in our belongings. Longlines, which is published by Greenisland Press, is the perfect accompaniment for your summer travels.
+
+- https://belfastmedia.com/longlines-review
+- https://www.irishecho.com/2024/7/longlines-review
+
+_**Anthony Neeson** is the Editor of the Andersonstown News. He is also the Ireland correspondent with the Irish Echo in New York._
