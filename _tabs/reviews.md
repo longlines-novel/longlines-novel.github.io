@@ -81,7 +81,7 @@ _**Timothy Jones** (Artist, Kinvara), Review on Amazon_
 
 ### Anthony Neeson
 
-BOOK REVIEW: Life catches up with  IRA man on the run
+**BOOK REVIEW: Life catches up with  IRA man on the run**
 
 AN off the books IRA kidnapping of a leading Dublin barrister goes horribly wrong with leading operative JJ Hynes ferried away to Holland in its aftermath. One IRA man is dead and another arrested. Hynes tries to work out what went wrong or if there was an informer in their ranks.
 
@@ -97,7 +97,7 @@ Caoilte Breatnach&#39;s clever use of language – and the relationship and juxt
 
 Many of us will be heading off on holiday over the coming weeks with a new clutch of paperbacks stuffed in our belongings. Longlines, which is published by Greenisland Press, is the perfect accompaniment for your summer travels.
 
-- https://belfastmedia.com/longlines-review
-- https://www.irishecho.com/2024/7/longlines-review
+- <https://belfastmedia.com/longlines-review>
+- <https://www.irishecho.com/2024/7/longlines-review>
 
 _**Anthony Neeson** is the Editor of the Andersonstown News. He is also the Ireland correspondent with the Irish Echo in New York._
