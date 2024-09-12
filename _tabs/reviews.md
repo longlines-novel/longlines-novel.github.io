@@ -10,6 +10,7 @@ order: 4
 - [Lelia Doolan](#lelia-doolan)
 - [Timothy Jones](#timothy-jones)
 - [Anthony Neeson](#anthony-neeson)
+- [Eoghan Mac Cormaic](#eoghan-mac-cormaic)
 
 ### Hugo Hamilton
 
@@ -101,3 +102,28 @@ Many of us will be heading off on holiday over the coming weeks with a new clutc
 - <https://www.irishecho.com/2024/7/longlines-review>
 
 _**Anthony Neeson** is the Editor of the Andersonstown News. He is also the Ireland correspondent with the Irish Echo in New York._
+
+<hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
+
+### Eoghan Mac Cormaic
+
+Longlines, the new novel by Galway author Caoilte Breathnach, is a book which straddles several genres, telling a story which is at times gritty, realistic, and at other times speculative. Layered through it all is a shrewd eye for detail and a finely-tuned ear for language. It belongs equally to that genre which some call &#39;troubles fiction&#39;, fiction based around the last thirty years of the twentieth century and &#39;post-conflict fiction&#39;, the thirty years since the 1994 ceasefire.  Read more…
+
+_**Eoghan Mac Cormaic**, writer and former republican prisoner._
+
+It is incredible that the working out of the peace has taken longer than the duration of the war but Breathnach&#39;s novel shows how many levels exist and that finding peace was never going to be a simple task. As the story unfolds new genres appear: suspense, mystery, and even some pastoral writing as the plot eventually settles into a more relaxed retirement for the main protagonist, JJ, along the Galway and Clare border.
+
+However, it is with the tense setting of a kidnapping that the story begins, not as might be suspected, in Belfast or Armagh, Tyrone or Derry, but in the northside of Dublin where a wealthy barrister is being held for ransom in an unsanctioned—or at least unadmitted—IRA operation at some point between or just prior to the ceasefires. 
+Breathnach&#39;s IRA unit fits the de rigeur mix of northern and southern comrades. There is JJ, the main character, a veteran activist from Derry, a thinker, and doer and a steadying force. By the time we meet the hostage, some of the IRA men have unwillingly and unintentionally allowed a rapport of sorts to develop, including an open antagonism between one of the kidnappers, the erratic Finny, and Morris, his victim. 
+
+The denouement of the kidnapping results in JJ having to flee Ireland for Holland. There, he falls in with some old folk, erstwhile members of the Dutch resistance who have kept in touch in the fifty-odd years since the end of their war. No wars end in a definitive full stop, and their inability to find closure supplies a subplot for the looming IRA ceasefire.
+JJ is called back to help sell the ceasefire to the sceptical. Intrigue and conspiracy follow. In these South Galway scenes the descriptive writing comes in to its own and the people and landscape and the simplicity of life, despite local rivalry and a dark scandal, provide the narrative, along with a sudden and satisfying love interest which we never saw coming.
+The endgame is, as would be expected, complicated, with dues being paid in a zero-sum confrontation. JJ&#39;s attempts to carve out a life for himself are perhaps facilitated too easily by the authorities in comparison to many real examples of resentment, spite and harassment, especially by the Special Branch.
+An old friend read the book before I did and one evening at a Gaza vigil he mentioned the book saying it was &#39;very readable&#39;. A succinct appraisal. My few criticisms would be the representation of speech in the vernacular (in Ireland and Holland), which only brings attention to itself, and sometimes, also, a slight drift toward stereotypes—but that&#39;s just a matter of my own taste in fiction.
+
+Writing in The Guardian about &#39;troubles fiction&#39; in 2019 David Keenan asked: &#39;Is it necessary for there to be a sort of cultural/historical gap before we can interrogate trauma?&#39; 
+Perhaps there is, but if the real protagonists are all gone then we are only left with fiction. 
+In Longlines, Caoilte Breathnach has left a respectable gap—not too long, not too short—between re-imagining in a credible way what the transition from war to peace must have been like for some, at least, of those involved in it.
+
+_**Eoghan Mac Cormaic** is a writer and a former republican prisoner. His books include: Captive Columns (Greenisland Press, 2024); the pen behind the Wire (Greenisland Press, 2023); Macallaí Cillín (Coiscéim 2023); On the Blanket (An Fhuiseog 2022); and Pluid (Coiscéim 2021)_
+
