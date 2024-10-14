@@ -8,7 +8,7 @@ order: 4
 - [Hugo Hamilton](#hugo-hamilton)
 - [Peter Sheridan](#peter-sheridan)
 - [Lelia Doolan](#lelia-doolan)
-- [Timothy Jones](#timothy-jones)
+- [Timothy Emlyn Jones](#timothy-emlyn-jones)
 - [Anthony Neeson](#anthony-neeson)
 - [Eoghan Mac Cormaic](#eoghan-mac-cormaic)
 
@@ -68,7 +68,7 @@ The final scene is an action-packed denouement, splendidly achieved. Threads tie
 
 <hr style="height:2px; border-width:0; color:gray; background-color:darkslategray;">
 
-### Timothy Jones
+### Timothy Emlyn Jones
 
 Set in the early stages of the Northern Ireland peace process, this entertaining crime-adventure-love story offers insight into the activities and conflicted mindset of the IRA. There is self-discovery and emerging love as the protagonist finds his own inner peace process, despite himself. It reads like an inside story even though it&#39;s not an autobiography.
 
