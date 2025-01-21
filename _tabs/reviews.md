@@ -153,5 +153,4 @@ It is like Dante's Beatrice, the archetypal female "redemptrix", gifted to stop 
 
 The author’s conclusion is a sound and solid mythological theme really well interpreted in his rendition. Bravo!
 
-Tony Hegarty is a writer, poet and ecopsychologist. His father and maternal grandparents hailed from County Derry. More:  <https://www.hugofgaia.com>
-###
+**Tony Hegarty** is a writer, poet and ecopsychologist. His father and maternal grandparents hailed from County Derry. _More_:  <https://www.hugofgaia.com>
