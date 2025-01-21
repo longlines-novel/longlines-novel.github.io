@@ -11,6 +11,7 @@ order: 4
 - [Timothy Emlyn Jones](#timothy-emlyn-jones)
 - [Anthony Neeson](#anthony-neeson)
 - [Eoghan Mac Cormaic](#eoghan-mac-cormaic)
+- [Anthony Hegarty](#anthony-hegarty)
 
 ### Hugo Hamilton
 
@@ -127,3 +128,30 @@ In Longlines, Caoilte Breathnach has left a respectable gap—not too long, not 
 
 _**Eoghan Mac Cormaic** is a writer and a former republican prisoner. His books include: Captive Columns (Greenisland Press, 2024); the pen behind the Wire (Greenisland Press, 2023); Macallaí Cillín (Coiscéim 2023); On the Blanket (An Fhuiseog 2022); and Pluid (Coiscéim 2021)_
 
+### Anthony Hegarty
+
+_JJ Hynes, a veteran of the Troubles in Derry and Belfast, has sacrificed his life, marriage, family to the Cause. Now he’s on the run in Holland where he finds refuge with survivors of the Dutch Resistance who are still haunted, like himself, by past memories of war. Within a year, JJ is called back, tasked with persuading comrades in the West of Ireland to back the ‘road to peace’, a process he wants to believe in._
+
+The title: "Longlines" is a great metaphor for the story. Long lines reaching back into the past...genealogies...threads going deep into who we are and where we come from individually and culturally. I used to set them as a teenager when my dad was unemployed in Lancashire. We called them "night-lines"... 
+
+For me, this is a kind of Odyssey...too grand a title ...maybe ...but it is a psycho/spiritual journey of the "hero" JJ. A journey in which he searches for a self-identity, a transcendence of a past which is both violent and unfulfilling, a failed relationship, a son he does not know and a raw sense of injustice resulting in a hatred that eats out the soul.
+ (My dad in some of his last words to his priest were that he wished he could be released from the deep hate he felt for the Orangemen in the North).
+
+But the hero represents, "plays out/acts out", (as all heroes do in mythology) the cultural ambiance of the time; the attitudes, good and bad, of the cultural and national context in which the story is set. I love the way his real name is revealed by Nora at the end: John Joe. It reminds me of Jacob fighting with the angel, which after the all-night struggle renames him "Israel" ...not a good example in the present political horror of the time.
+
+So the scene is set in the failed operation in Dublin where we have JJ in his role as an active IRA man and where we get introduced to characters we will meet importantly later. We learn of his relationship with Garvey and his commitment to the "Movement". Then he goes "on the run". JJ's "on the run" in the Netherlands is the start of his journey to some kind of eventual redemption and like all Vision-Quests or spiritual journeys he must arrive at a totally negative emptiness; to become "lost" in the psychological and spiritual sense. So he gets in the fake taxi and is poisoned, mugged and robbed. Having lost the important "bag" (or we might say "baggage") he has no money, no ID, and slipping out from the hospital and the reaches of the embassy, he finds himself in a totally strange place and then he boards a train to nowhere with no ticket and no means of paying the fare. He gets off in the middle of this nowhere and stripped to this state of hopelessness, his story back can begin. Wonderful start! 
+
+I don't really buy coincidence. I prefer the Jungian term, "Synchronicity". A great Czech Psychologist, Stanislav Grof, says that such seeming coincidences occur during states of "spiritual emergency" and we should always see them as significant guides on the journey. So JJ befriends two old men, Eric and Frans, ex-Dutch Resistance fighters from World War Two! Then he is afflicted with an illness that virtually incapacitates him. What I like  about many of the events in the writing is a kind of reluctance to pursue or develop some of them. At first I found this irritating but then I saw it as part of the atmosphere of uncertainty, distrust and cover-up. Was the fake Taxi driver a trap, a conspiracy; we do not know; it is not gone into. Is Eric genuine; and the doctor, Frans? And then he finds the 'Luger". Eric’s story of course is a kind of sub plot of JJ's condition; a man revenging a violent injustice too. So significantly, we don't lose the story's theme in this time of JJ's incapacity. Who identifies the hotel room in which JJ is nearly executed; is it the girl? We are not really told. And then there are the family secrets, made explicit yes, but to the family hidden for so long. Mikey's homosexuality is a good example but also Frans's friend is not really “outed”, as they say. These events are all partly hidden; not spoken of by the characters or implicitly by the author either; the incest is a good example, again I thought of them as longlines, cultural and personal at the same time.
+
+For me, the Luger is almost as symbolic as the "longlines". It represents the longline of violence in the entire story. Eric took the Luger from the Nazi captain who was responsible for the murder of his young wife.  JJ takes it from the revenger Eric and of course Finny (JJ’s sidekick) is envious of its possession.
+The dead Nazi soldiers have their own archetypal significance in the story of violence and recrimination. Mythologically the Luger reminded me of King Arthur's sword, which on his death had to be returned to the "lady of the lake' whose arm comes up out of the water to catch it and draw it under; marking the end of a sequence of violence, a return to the unconscious history of the times.
+
+There is always a kind of sexual transcendence in such journeys. The  girl in Rotterdam is a dangerous error on JJ’s part, sexually motivated, and JJ's thoughts about Ashling, who we assume will be the redemptive lover in the end, are all transcended by Nora's noble features in spite of her physical deformity. There is a joint cultural redemption here for both of them....Nora suffering from a cultural prejudice, as well as JJ's identification as an IRA activist. 
+
+I have to comment on the end here: I know a lot about those lines; the fishhooks are lethal and on a long line you might have fifty of them all needing baiting. The tide can be frightening too if you don't understand its cycles. But I will say no more in case I spoil the brilliant ending. 
+It is like Dante's Beatrice, the archetypal female "redemptrix", gifted to stop the loss of bloodshed and culturally a symbol of a wounded land. 
+
+The author’s conclusion is a sound and solid mythological theme really well interpreted in his rendition. Bravo!
+
+Tony Hegarty is a writer, poet and ecopsychologist. His father and maternal grandparents hailed from County Derry. More:  <http://www.hugofgaia.com>
+###
